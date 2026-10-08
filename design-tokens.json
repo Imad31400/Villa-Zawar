@@ -1,0 +1,47 @@
+{
+  "name": "Villa Zawar",
+  "version": "1.0",
+  "fonts": {
+    "heading": "EB Garamond",
+    "body": "Inter",
+    "heading_alternative": "Noto Serif",
+    "body_alternative": "Lato"
+  },
+  "colors": {
+    "ivory": "#F6F1E9",
+    "champagne": "#C2AC8D",
+    "brown": "#493B35",
+    "taupe": "#8C7966",
+    "ink": "#20201F",
+    "white": "#FFFFFF",
+    "mute": "#E9DFD3",
+    "pool": "#718F8C",
+    "sand": "#E4D3BE"
+  },
+  "type": {
+    "h1": {
+      "fontSize": "clamp(2.25rem, 5vw, 4.5rem)",
+      "lineHeight": 1.06
+    },
+    "h2": {
+      "fontSize": "clamp(2rem, 3.6vw, 3rem)",
+      "lineHeight": 1.12
+    },
+    "body": {
+      "fontSize": "1rem",
+      "lineHeight": 1.65
+    }
+  },
+  "grid": {
+    "desktop": "12 columns",
+    "tablet": "8 columns",
+    "mobile": "4 columns",
+    "gutterDesktop": "24px",
+    "gutterMobile": "12px"
+  },
+  "radius": {
+    "buttons": "3px",
+    "image": "0px"
+  },
+  "focus": "2px solid #493B35"
+}
